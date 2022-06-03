@@ -70,7 +70,7 @@ const App = () => {
             <Route path = '/financial' element = 'Financial' />
             <Route path = '/color-mapping' element = 'ColorMapping' />
             <Route path = '/pyramid' element = 'Pyramind' />
-            <Route path = '/pyramid' element = 'Pyramind' />
+            <Route path = '/stacked' element = 'Stacked' />
 
           </Routes>
 
